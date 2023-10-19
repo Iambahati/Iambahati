@@ -1,8 +1,8 @@
 #### Hi there 👋 I’m Bahati
 - 🔭 I’m currently working as a Mobile Engineer.
 - 🌱 Focusing on flutter and android.
-- 🧠 I’m looking to collaborate on anything todo with mobile technologies — Let's Create Something Awesome Together
-- 📫 How to reach me: baha[dot]dev[at]outlook[dot]com
+- 🧠 I’m looking to collaborate on anything todo with mobile technologies
+- 📫  Let's connect: baha[dot]dev[at]outlook[dot]com
 - 😄 Pronouns: He/Him
 
 <!---
