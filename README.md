@@ -1,5 +1,5 @@
 #### Hi there 👋 I’m Bahati
-- 🔭 I’m currently working as a Mobile Engineer.
+- 🔭 I’m currently working as a Flutter Developer.
 - 🌱 Focusing on flutter and android.
 - 🧠 I’m looking to collaborate on anything todo with mobile technologies
 - 📫  Let's connect: baha[dot]dev[at]outlook[dot]com
